@@ -1,2 +1,2 @@
 # python-playings
-Just messing around
+Master dev environment for Python experiments
