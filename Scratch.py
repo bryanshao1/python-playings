@@ -26,7 +26,7 @@ def checkNumber(low, high, num):
         return num
 
 def reducer(low, high):
-    return (low + high)/2
+    return int((low + high)/2)
 
 print("Number guessing game! Please think of a number between 1 and 100!")
 final = checkNumber(0, 100, 50)
